@@ -1,2 +1,2 @@
 # c_exercises
-try to learn
+free time exercise
