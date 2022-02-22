@@ -1,2 +1,2 @@
 # c_exercises
-free time exercise
+free time exercises
